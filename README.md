@@ -1,6 +1,6 @@
-# TAAS EdgeOS TestCenter Demo - Demo running in Lab on 8/11/20
-# updated check: 10/20/2020
-# New update: 9/5/2022
+# TAAS EdgeOS TestCenter Demo - Demo running in Lab on 12/30/2023
+# updated check: 10/20/2023
+# New update: 3/10/2024
 ## Overview
 
 This is an advanced sample application that demonstrates many of the key capabilities enabled by EdgeOS, such as: 
@@ -35,7 +35,7 @@ Inside the TestCenter, there are a number of Raspberry Pi devices with various r
 
 # On-Line DEMO - contact us for a developer account
 
-http://r.aitestcenter.net:8080
+Work In Progress ----   http://r.aitestcenter.net:8080
 
 # More info
 
